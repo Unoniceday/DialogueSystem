@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<DialogTree>
+	<NodeID id="0" type="NullOption">
+		<Character>邱媽</Character>
+		<Text>發Q</Text>
+		<NextNode>1</NextNode>
+	</NodeID>
+	
+	<NodeID id="1" type="Option">
+		<Character>之餘</Character>
+		<Text>yeeeeee</Text>
+		<OptionList>0,1</OptionList>
+	</NodeID>
+	<NodeID id="2" type="NullOption">
+		<Character>紹懷</Character>
+		<Text>RRRR</Text>
+		<NextNode>-1</NextNode>
+	</NodeID>
+	
+</DialogTree>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<OptionTree>
+	<OptionID id="0">
+		<Text>發QQQQQQ</Text>
+		<NextNode>0</NextNode>
+	</OptionID>
+	
+	<OptionID id="1">
+		<Text>yeeeeee</Text>
+		<NextNode>2</NextNode>
+	</OptionID>
+	
+</OptionTree>
